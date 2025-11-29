@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- C# Desktop Programmer
+- PHP Backend Developer
+- Godot/GDScript Game Developer
+
+## Reach me 💬
+
+- Email: tztztztz21@gmail.com
+- Telegram: @Boss_mummy21
+
 <!--
 **bossmummy18/bossmummy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
